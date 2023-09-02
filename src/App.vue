@@ -1,16 +1,22 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <router-view v-if="isRouterAlive"></router-view>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  data() {
+    return {
+      isRouterAlive: true
+    }
+  },
+  reload: function() {
+      this.isRouterAlive = false;
+      this.$nextTick(function() {
+        this.isRouterAlive = true
+      })
+    }
 }
 </script>
 
@@ -21,6 +27,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
