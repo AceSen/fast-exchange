@@ -37,15 +37,15 @@ npm run build
 2. OKX生成API KEY, 生成之后请妥善保管, 避免丢失.
 3. 点击**release**获取开箱即用的发行版软件，如下图。
 
-![1693679293231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1693679293231.png)
+![1693679293231](https://github.com/AceSen/picture/blob/main/fast-airdrop/release.png)
 
 ​    4.下载ZIP包
 
-![1693679353548](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1693679353548.png)
+![1693679353548](https://github.com/AceSen/picture/blob/main/fast-airdrop/releasezip.png)
 
 ​    5.解压，打开dist文件夹， 打开index.html即可使用，界面如下
 
-![1693678010502](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1693678010502.png)
+![1693678010502](https://github.com/AceSen/picture/blob/main/fast-airdrop/okxpage.png)
 
 
 
@@ -65,4 +65,4 @@ twitter：https://twitter.com/senokel
 
 请向ETH主网进行捐赠 : 0x1c4D49881b4297B4633001F4B2A66FEf85C103a7
 
-![1693679854690](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1693679854690.png)
+![1693679854690](https://github.com/AceSen/picture/blob/main/fast-airdrop/mainnet-address.png)
