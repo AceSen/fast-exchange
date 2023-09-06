@@ -63,6 +63,6 @@ twitter：https://twitter.com/senokel
 
 **捐赠:**
 
-请向ETH主网进行捐赠 : 0x1c4D49881b4297B4633001F4B2A66FEf85C103a7
+请向ETH主网进行捐赠 : 0x0c5Fee0Cd234a3E9Ca5d4399596dA6aE119687B4
 
-![1693679854690](https://github.com/AceSen/picture/blob/main/fast-airdrop/address.png)
+![1693679854690](https://github.com/AceSen/picture/blob/main/fast-airdrop/address.jpg)
