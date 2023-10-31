@@ -1,6 +1,6 @@
-# fast-airdrop
+# fast-exchange
 
-本项目专为web3撸毛/空投而生。本项目为纯前端项目，直接连接区块链网络或者其他第三方网络进行交互。至于老生常谈的安全问题，有条件的可以`review代码`，无法review代码的小伙伴就跟着`感觉`走吧。
+本项目为交易所账户与链上地址之间的交互提供了极大便利性。本项目为纯前端项目，直接连接区块链网络或者其他第三方网络进行交互。至于老生常谈的安全问题，有条件的可以`review代码`，无法review代码的小伙伴就跟着`感觉`走吧。
 
 Owner承诺github上的源码**不存在**恶意代码，其他基于此项目二次开发的代码，Owner无法保证其安全性，所以请尽量**从github下载发行版**。
 
@@ -12,7 +12,7 @@ Owner承诺github上的源码**不存在**恶意代码，其他基于此项目�
 
 ### 技术栈
 
-VUE3 + axios + vue-router + element-plus
+VUE3 + axios + vue-router + element-plus + starkjs
 
 ### 安装依赖
 
@@ -63,6 +63,5 @@ twitter：https://twitter.com/senokel
 
 **捐赠:**
 
-请向ETH主网进行捐赠 : 0x0c5Fee0Cd234a3E9Ca5d4399596dA6aE119687B4
+请向starknet地址捐赠 : 0x0219e47CD3Ab97C7602233c283811b731b75f7A5a2D26294de8ad0754e5fe7C4
 
-![1693679854690](https://github.com/AceSen/picture/blob/main/fast-airdrop/address.jpg)
